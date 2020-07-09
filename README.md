@@ -1,6 +1,6 @@
 # Mobile Flashcards
 
-Mobile Flashcards is a flashcard application that allows a user to manage decks and take quizes. This project uses React Native, Redux, Expo, and AsyncStorage.
+Mobile Flashcards is a flashcard application that allows a user to manage decks and take quizzes. This project uses React Native, Redux, Expo, and AsyncStorage.
 
 Currently supported on both Android and iOS devices.
 
